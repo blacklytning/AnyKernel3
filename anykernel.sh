@@ -4,13 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Grimjaww by venombiceps @ xda-developers
+kernel.string=WhiteHurricane by venombiceps @ xda-developers
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=hanoio
+device.name1=hanoip
 device.name2=hanoi
 device.name3=
 device.name4=
